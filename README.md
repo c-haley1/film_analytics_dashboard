@@ -2,7 +2,7 @@
 
 **[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/colin.haley/viz/FinalProject_17857094663200/FilmAnalyticsStrategy)**
 
-An interactive Tableau dashboard built to answer a hypothetical Netflix greenlighting question: what combination of genre, budget, runtime, rating, and setting gives a film the best odds of being both highly profitable and a strong return on investment — using data on 200+ of the highest-rated and most profitable films from 1989–2014.
+An interactive Tableau dashboard built to answer a hypothetical Netflix greenlighting question: what combination of genre, budget, runtime, rating, and setting gives a film the best odds of being both highly profitable and a strong return on investment while using data on 200+ of the highest-rated and most profitable films from 1989–2014.
 
 ## Objective
 
